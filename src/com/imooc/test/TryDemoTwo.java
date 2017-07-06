@@ -24,7 +24,7 @@ public class TryDemoTwo {
 			return 0;
 		}finally{
 			System.out.println("======ÔËËã½áÊø======");
-			return -100000;
+//			return -100000;
 		}
 	}
 
